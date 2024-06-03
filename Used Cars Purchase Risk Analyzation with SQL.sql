@@ -1,6 +1,8 @@
 /*
 Used Car Transactions Data Exploration 
 
+Please view the "The Used Car Project Report - SQL" file for the final report for this project.
+
 */
 
 
